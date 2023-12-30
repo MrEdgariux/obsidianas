@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6b538d7ecb350b",
+        "id": "7524cb0b564a443a",
         "type": "tabs",
         "children": [
           {
-            "id": "b82c1d0731c3e083",
+            "id": "6f23684ff55bf99a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Kanban.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b82c1d0731c3e083",
+  "active": "6f23684ff55bf99a",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "obsidianas",
