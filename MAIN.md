@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] [[signal_cbox/Statistika | Signal CBox]]
 - [ ] [[Dukeledoggo/Statistika | Dukeledoggo]]
 - [x] [[statistika-part1 |iceymoonshards PART 1]]
+- [x] [[bluehauskybutt/Statistika | Bluehauskybutt]]
 
 
 ## TikTok - Furries (Incompleted)
